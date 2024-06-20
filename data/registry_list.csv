@@ -1,0 +1,125 @@
+continent,registry,registry_label,year1,year2
+2,3200799,"Argentina, Mendoza",2003,2017
+6,3600299,"Australia, New South Wales & Australian Capital Territory",1983,2017
+6,3600399,"Australia, Queensland",1993,2017
+6,3600499,"Australia, South",1978,2017
+6,3600599,"Australia, Tasmania",1978,2017
+6,3600699,"Australia, Victoria",1983,2017
+6,3600799,"Australia, Western",1983,2017
+6,3600899,"Australia, Northern Territory",1993,2017
+5,4000099,"Austria",1998,2017
+5,4000799,"Austria, Tyrol",1988,2017
+5,4000899,"Austria, Vorarlberg",1993,2017
+4,4800046,"Bahrain: Bahraini",1998,2017
+5,11200099,"Belarus",1983,2017
+3,12400099,"Canada (Excl Nova Scotia, Northwest Territories, Nunavut, Quebec and Yukon)",1978,2017
+2,15200199,"Chile, Valdivia",1998,2017
+4,15600199,"China, Beijing City",2003,2017
+4,15600299,"China, Qidong County",2003,2017
+4,15600399,"China, Shanghai City",2002,2017
+4,15600799,"China, Jiashan County",1993,2017
+4,15600999,"China, Wuhan City",2003,2017
+4,15601499,"China, Zhongshan City",1998,2017
+4,15601599,"China, Nangang District, Harbin City",1998,2017
+4,15601899,"China, Yanting County",2003,2017
+2,17000199,"Colombia, Cali",1983,2017
+2,17000299,"Colombia, Bucaramanga",2003,2017
+2,17000399,"Colombia, Manizales",2003,2017
+2,17000499,"Colombia, Pasto",2003,2017
+2,18800099,"Costa Rica",1982,2016
+5,19100099,"Croatia",1988,2017
+5,19600099,"Cyprus",1998,2017
+5,20300099,"Czech Republic",1983,2017
+5,20800099,"Denmark",1953,2017
+2,21800199,"Ecuador, Quito",1985,2017
+5,23300099,"Estonia",1983,2017
+5,25000199,"France, Bas-Rhin",1977,2016
+5,25000299,"France, Calvados",1978,2017
+5,25000399,"France, Doubs",1978,2017
+5,25000499,"France, Haut-Rhin",1988,2017
+5,25000599,"France, Isère",1979,2017
+5,25000699,"France, Somme",1983,2017
+5,25000899,"France, Hérault",1988,2017
+5,25001499,"France, Loire-Atlantique",1998,2017
+5,25001699,"France, Manche",1994,2017
+5,25001799,"France, Vendée",1998,2017
+2,25009199,"France, Martinique",1993,2017
+5,27600299,"Germany, Hamburg",1998,2017
+5,27601299,"Germany, Bremen",2003,2017
+5,27601699,"Germany, Schleswig-Holstein",2003,2017
+5,27603099,"Germany, Saarland",1973,2017
+5,35200099,"Iceland",1958,2017
+4,35600399,"India, Mumbai",1978,2017
+4,35600499,"India, Chennai",1983,2017
+4,35600799,"India, Barshi",2003,2017
+4,35601199,"India, Dindigul Ambilikkai",2003,2017
+5,37200099,"Ireland",1994,2017
+4,37600090,"Israel: All Jews",1963,2017
+4,37600099,"Israel",1963,2017
+5,38001499,"Italy, Umbria, Perugia",1994,2016
+5,38001999,"Italy, Trento",2003,2017
+5,38002999,"Italy, Syracuse",1999,2017
+5,38003399,"Italy, Palermo",2003,2017
+5,38003499,"Italy, South Tyrol",2003,2017
+4,39200299,"Japan, Miyagi Prefecture",1978,2017
+4,39200499,"Japan, Osaka",1971,2015
+4,41000099,"Republic of Korea",1999,2017
+4,41000299,"Republic of Korea, Busan",1998,2017
+4,41000399,"Republic of Korea, Seoul",1993,2017
+4,41000499,"Republic of Korea, Daegu",1998,2017
+4,41000599,"Republic of Korea, Daejeon",1998,2017
+4,41000899,"Republic of Korea, Ulsan",1999,2017
+4,41000999,"Republic of Korea, Jejudo",2003,2017
+4,41001099,"Republic of Korea, Gwangju",1998,2017
+4,41001199,"Republic of Korea, Incheon",1998,2017
+4,41400025,"Kuwait: Kuwaiti",1998,2017
+5,42800099,"Latvia",1983,2017
+5,44000099,"Lithuania",1988,2017
+5,47000099,"Malta",1993,2017
+5,52800099,"The Netherlands",1989,2017
+6,55400099,"New Zealand",1983,2017
+5,57800099,"Norway",1953,2017
+4,60800299,"Philippines, Manila",1983,2017
+5,61600799,"Poland, Kielce",1999,2017
+2,63000099,"Puerto Rico",2003,2017
+4,63400068,"Qatar: Qatari",2003,2017
+5,70500099,"Slovenia",1983,2017
+5,72400199,"Spain, Tarragona",1983,2017
+5,72400299,"Spain, Granada",1988,2017
+5,72400399,"Spain, Murcia",1986,2017
+5,72400499,"Spain, Navarra",1977,2016
+5,72400699,"Spain, Basque Country",1987,2016
+5,72401099,"Spain, Girona",1993,2017
+5,72401199,"Spain, Canary Islands",1993,2016
+5,72401499,"Spain, La Rioja",2003,2017
+5,75600299,"Switzerland, Geneva",1973,2017
+5,75600599,"Switzerland, Vaud",1988,2017
+5,75600899,"Switzerland, Valais",1993,2017
+5,75601099,"Switzerland, Ticino",1998,2017
+5,75601199,"Switzerland, Graubünden and Glarus",1993,2017
+4,76400199,"Thailand, Chiang Mai",1983,2017
+4,76400299,"Thailand, Khon Kaen",1993,2017
+4,76400499,"Thailand, Songkhla",1993,2017
+4,76400599,"Thailand, Lampang",1993,2017
+4,79200199,"Türkiye, Izmir",1998,2017
+4,79200299,"Türkiye, Antalya",1998,2017
+1,80000299,"Uganda, Kyadondo County",1993,2017
+5,82600199,"UK, England",1971,2017
+5,82602099,"UK, Scotland",1978,2017
+5,82603099,"UK, Northern Ireland",1993,2017
+5,82604099,"UK, Wales",2003,2017
+3,84000310,"USA, California, Los Angeles County: White",1973,2017
+3,84000320,"USA, California, Los Angeles County: Chinese",1973,2017
+3,84000322,"USA, California, Los Angeles County: Korean",1973,2017
+3,84000323,"USA, California, Los Angeles County: Filipino",1973,2017
+3,84000330,"USA, California, Los Angeles County: Black",1973,2017
+3,84000350,"USA, California, Los Angeles County: Hispanic White",1973,2017
+3,84000360,"USA, California, Los Angeles County: Non-Hispanic White",1973,2017
+3,84000399,"USA, California, Los Angeles (SEER)",1973,2017
+3,84002010,"USA, SEER (9 registries): White",1978,2017
+3,84002030,"USA, SEER (9 registries): Black",1978,2017
+3,84002099,"USA, SEER (9 registries)",1978,2017
+3,84008010,"USA, NPCR: White",1998,2017
+3,84008029,"USA, NPCR: Asian and Pacific Islander",1998,2017
+3,84008030,"USA, NPCR: Black",1998,2017
+3,84008099,"USA, NPCR (45 States and Washington DC)",1998,2017

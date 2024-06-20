@@ -1,0 +1,125 @@
+continent,registry,registry_label,year1,year2,ethnic_group,selection
+2,"32007","Argentina, Mendoza",2003,2017,"99",0
+6,"36002","Australia, New South Wales & Australian Capital Territory",1983,2017,"99",0
+6,"36003","Australia, Queensland",1993,2017,"99",0
+6,"36004","Australia, South",1978,2017,"99",0
+6,"36005","Australia, Tasmania",1978,2017,"99",0
+6,"36006","Australia, Victoria",1983,2017,"99",0
+6,"36007","Australia, Western",1983,2017,"99",0
+6,"36008","Australia, Northern Territory",1993,2017,"99",0
+5,"40000","Austria",1998,2017,"99",0
+5,"40007","Austria, Tyrol",1988,2017,"99",0
+5,"40008","Austria, Vorarlberg",1993,2017,"99",0
+4,"48000","Bahrain: Bahraini",1998,2017,"46",0
+5,"112000","Belarus",1983,2017,"99",0
+3,"124000","Canada (Excl Nova Scotia, Northwest Territories, Nunavut, Quebec and Yukon)",1978,2017,"99",0
+2,"152001","Chile, Valdivia",1998,2017,"99",0
+4,"156001","China, Beijing City",2003,2017,"99",0
+4,"156002","China, Qidong County",2003,2017,"99",0
+4,"156003","China, Shanghai City",2002,2017,"99",0
+4,"156007","China, Jiashan County",1993,2017,"99",0
+4,"156009","China, Wuhan City",2003,2017,"99",0
+4,"156014","China, Zhongshan City",1998,2017,"99",0
+4,"156015","China, Nangang District, Harbin City",1998,2017,"99",0
+4,"156018","China, Yanting County",2003,2017,"99",0
+2,"170001","Colombia, Cali",1983,2017,"99",0
+2,"170002","Colombia, Bucaramanga",2003,2017,"99",0
+2,"170003","Colombia, Manizales",2003,2017,"99",0
+2,"170004","Colombia, Pasto",2003,2017,"99",0
+2,"188000","Costa Rica",1982,2016,"99",0
+5,"191000","Croatia",1988,2017,"99",0
+5,"196000","Cyprus",1998,2017,"99",0
+5,"203000","Czech Republic",1983,2017,"99",0
+5,"208000","Denmark",1953,2017,"99",0
+2,"218001","Ecuador, Quito",1985,2017,"99",0
+5,"233000","Estonia",1983,2017,"99",0
+5,"250001","France, Bas-Rhin",1977,2016,"99",0
+5,"250002","France, Calvados",1978,2017,"99",0
+5,"250003","France, Doubs",1978,2017,"99",0
+5,"250004","France, Haut-Rhin",1988,2017,"99",0
+5,"250005","France, Isère",1979,2017,"99",0
+5,"250006","France, Somme",1983,2017,"99",0
+5,"250008","France, Hérault",1988,2017,"99",0
+5,"250014","France, Loire-Atlantique",1998,2017,"99",0
+5,"250016","France, Manche",1994,2017,"99",0
+5,"250017","France, Vendée",1998,2017,"99",0
+2,"250091","France, Martinique",1993,2017,"99",0
+5,"276002","Germany, Hamburg",1998,2017,"99",0
+5,"276012","Germany, Bremen",2003,2017,"99",0
+5,"276016","Germany, Schleswig-Holstein",2003,2017,"99",0
+5,"276030","Germany, Saarland",1973,2017,"99",0
+5,"352000","Iceland",1958,2017,"99",0
+4,"356003","India, Mumbai",1978,2017,"99",0
+4,"356004","India, Chennai",1983,2017,"99",0
+4,"356007","India, Barshi",2003,2017,"99",0
+4,"356011","India, Dindigul Ambilikkai",2003,2017,"99",0
+5,"372000","Ireland",1994,2017,"99",0
+4,"376000","Israel: All Jews",1963,2017,"90",0
+4,"376000","Israel",1963,2017,"99",0
+5,"380014","Italy, Umbria, Perugia",1994,2016,"99",0
+5,"380019","Italy, Trento",2003,2017,"99",0
+5,"380029","Italy, Syracuse",1999,2017,"99",0
+5,"380033","Italy, Palermo",2003,2017,"99",0
+5,"380034","Italy, South Tyrol",2003,2017,"99",0
+4,"392002","Japan, Miyagi Prefecture",1978,2017,"99",0
+4,"392004","Japan, Osaka",1971,2015,"99",0
+4,"410000","Republic of Korea",1999,2017,"99",0
+4,"410002","Republic of Korea, Busan",1998,2017,"99",0
+4,"410003","Republic of Korea, Seoul",1993,2017,"99",0
+4,"410004","Republic of Korea, Daegu",1998,2017,"99",0
+4,"410005","Republic of Korea, Daejeon",1998,2017,"99",0
+4,"410008","Republic of Korea, Ulsan",1999,2017,"99",0
+4,"410009","Republic of Korea, Jejudo",2003,2017,"99",0
+4,"410010","Republic of Korea, Gwangju",1998,2017,"99",0
+4,"410011","Republic of Korea, Incheon",1998,2017,"99",0
+4,"414000","Kuwait: Kuwaiti",1998,2017,"25",0
+5,"428000","Latvia",1983,2017,"99",0
+5,"440000","Lithuania",1988,2017,"99",0
+5,"470000","Malta",1993,2017,"99",0
+5,"528000","The Netherlands",1989,2017,"99",0
+6,"554000","New Zealand",1983,2017,"99",0
+5,"578000","Norway",1953,2017,"99",0
+4,"608002","Philippines, Manila",1983,2017,"99",0
+5,"616007","Poland, Kielce",1999,2017,"99",0
+2,"630000","Puerto Rico",2003,2017,"99",0
+4,"634000","Qatar: Qatari",2003,2017,"68",0
+5,"705000","Slovenia",1983,2017,"99",0
+5,"724001","Spain, Tarragona",1983,2017,"99",0
+5,"724002","Spain, Granada",1988,2017,"99",0
+5,"724003","Spain, Murcia",1986,2017,"99",0
+5,"724004","Spain, Navarra",1977,2016,"99",0
+5,"724006","Spain, Basque Country",1987,2016,"99",0
+5,"724010","Spain, Girona",1993,2017,"99",0
+5,"724011","Spain, Canary Islands",1993,2016,"99",0
+5,"724014","Spain, La Rioja",2003,2017,"99",0
+5,"756002","Switzerland, Geneva",1973,2017,"99",0
+5,"756005","Switzerland, Vaud",1988,2017,"99",0
+5,"756008","Switzerland, Valais",1993,2017,"99",0
+5,"756010","Switzerland, Ticino",1998,2017,"99",0
+5,"756011","Switzerland, Graubünden and Glarus",1993,2017,"99",0
+4,"764001","Thailand, Chiang Mai",1983,2017,"99",0
+4,"764002","Thailand, Khon Kaen",1993,2017,"99",0
+4,"764004","Thailand, Songkhla",1993,2017,"99",0
+4,"764005","Thailand, Lampang",1993,2017,"99",0
+4,"792001","Türkiye, Izmir",1998,2017,"99",0
+4,"792002","Türkiye, Antalya",1998,2017,"99",0
+1,"800002","Uganda, Kyadondo County",1993,2017,"99",0
+5,"826001","UK, England",1971,2017,"99",0
+5,"826020","UK, Scotland",1978,2017,"99",0
+5,"826030","UK, Northern Ireland",1993,2017,"99",0
+5,"826040","UK, Wales",2003,2017,"99",0
+3,"840003","USA, California, Los Angeles County: White",1973,2017,"10",0
+3,"840003","USA, California, Los Angeles County: Chinese",1973,2017,"20",0
+3,"840003","USA, California, Los Angeles County: Korean",1973,2017,"22",0
+3,"840003","USA, California, Los Angeles County: Filipino",1973,2017,"23",0
+3,"840003","USA, California, Los Angeles County: Black",1973,2017,"30",0
+3,"840003","USA, California, Los Angeles County: Hispanic White",1973,2017,"50",0
+3,"840003","USA, California, Los Angeles County: Non-Hispanic White",1973,2017,"60",0
+3,"840003","USA, California, Los Angeles (SEER)",1973,2017,"99",0
+3,"840020","USA, SEER (9 registries): White",1978,2017,"10",0
+3,"840020","USA, SEER (9 registries): Black",1978,2017,"30",0
+3,"840020","USA, SEER (9 registries)",1978,2017,"99",0
+3,"840080","USA, NPCR: White",1998,2017,"10",0
+3,"840080","USA, NPCR: Asian and Pacific Islander",1998,2017,"29",0
+3,"840080","USA, NPCR: Black",1998,2017,"30",0
+3,"840080","USA, NPCR (45 States and Washington DC)",1998,2017,"99",0
